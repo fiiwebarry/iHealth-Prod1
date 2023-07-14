@@ -1,0 +1,261 @@
+
+
+.container{
+    margin:0 auto;
+    width: 90%;
+    max-width: 1216px;
+}
+
+
+.img-holder{
+  width:100%;
+  height:auto;
+}
+
+.pageholder{
+
+    background-color: white;
+    
+}
+.page{
+    display:flex;
+    justify-content: center;
+    gap: 56px;
+}
+.img-outline{
+    width:381px;
+    
+}
+.img-mission{
+    margin-top: 180px;
+    width:381px;
+    height:249px;
+}
+.img-value{
+  margin-top: 60px;
+  width: 381px;
+  height:249px;
+  border-radius: 20px 20px 0px 0px;
+}
+.img-vision{
+    width:381px;
+    height:249px;
+    border-radius: 20px 20px 0px 0px;
+    margin-top: 180px;
+
+}
+.text-outline{
+    background-color:whitesmoke;
+    border-radius: 0px 0px 20px 20px;
+    width:381px;
+    padding: 20px;
+  
+}
+.text{
+    width: 341px;
+    height: 714px;
+    font-family: Roboto;
+    font-size: 24px;
+    font-weight: 400;
+    line-height: 34.32px;
+    letter-spacing: 0em;
+    text-align: center;
+    color:#00427C;
+    
+}
+.text-outline1{
+    background-color:#FFFFFF;
+    border-radius: 0px 0px 20px 20px;
+    width:381px;
+    padding: 20px;
+  
+}
+.text1{
+    width: 341px;
+    height: 1214px;
+    font-family: Roboto;
+    font-size: 24px;
+    font-weight: 400;
+    line-height: 34.32px;
+    letter-spacing: 0em;
+    text-align: center;
+    color:#00427C;
+    
+}
+.text1 h3{
+font-family: Roboto;
+font-size: 24px;
+font-weight: 600;
+line-height: 26px;
+letter-spacing: 0em;
+text-align: center;
+
+}
+.text1 p{
+font-family: Roboto;
+font-size: 20px;
+font-weight: 400;
+line-height: 22px;
+letter-spacing: 0em;
+text-align: center;
+
+}
+
+.img-chart{
+ margin-top: 45px;
+}
+.img-finance{
+    width:100%;
+    height:300px;
+}
+.page-holder2{
+    margin-top: 50px;
+    text-align: center;
+}
+
+.text3{
+    
+    border-radius: 2px;
+    background-color: #FFFFFF;
+    width: 289px;
+    height: 35px;
+    margin:auto;
+}
+.text4{
+    margin-top: 40px;
+    font-family: Roboto;
+    font-size: 21px;
+    font-weight: 400;
+    line-height: 31px;
+    letter-spacing: 0em;
+    text-align: center;
+
+}
+
+.Gen-Rev{
+    margin-top: 50px;
+    display:flex;
+    justify-content: center;
+    gap:90px
+}
+ul{
+    list-style-type:none;
+}
+.grid{
+    display:flex;
+    gap:20px;
+}
+.grid1{
+    
+    
+    width: 33px;
+    height: 33px;
+    margin-top: 20px;
+}
+.grid2{
+    margin-top: 10px;
+    font-family: Roboto;
+    font-size: 28px;
+    font-weight: 400;
+    line-height: 33px;
+    letter-spacing: 0.02em;
+    text-align: center;
+    color: #00325D;
+    padding: 9px;
+
+
+}
+
+.bar-chart img{
+width: 756px;
+height: 667px;
+border-radius: 20px;
+}
+.streams{
+    margin-top: 40px;
+    text-align: center;
+}
+.streams h2{
+    
+    border-radius: 2px;
+    background-color: #FFFFFF;
+    width: 405px;
+    height: 35px;
+    margin:auto;
+    font-family: Roboto;
+   font-size: 32px;
+   font-weight: 600;
+    line-height: 35px;
+    letter-spacing: 0em;
+     
+
+}
+.streams img{
+    margin-top: 60px;
+    width: 1216px;
+    height: 761px;
+    margin-bottom: 42px;
+
+}
+.frame-holder{
+
+    background-color:#c4dae2; 
+    position:relative;
+     /* background-image: url("src/Assets/Images/frame.png"); 
+     background-repeat:  no-repeat; */
+   
+}
+.frame{
+    position:absolute;
+    /* top:100px; */
+    left:0px;
+    right:0px;
+   width:100%;
+   height: 100%;
+}
+.frame img{
+    width:100%;
+    height:100%;
+}
+.page-text{
+    width: 90%;
+    max-width: 1216px;
+    
+    margin:auto;
+}
+.txt{
+    padding: 120px;
+    font-family: Roboto;
+    font-size: 36px;
+    font-weight: 600;
+    line-height: 40px;
+    letter-spacing: 0em;
+    
+}
+.txt2{
+font-family: Roboto;
+font-size: 48px;
+font-weight: 700;
+line-height: 58px;
+letter-spacing: 0em;
+text-align: center;
+margin-top: 20px;
+}
+.txt3{
+
+font-family: Roboto;
+font-size: 24px;
+font-weight: 600;
+line-height: 26px;
+letter-spacing: 0em;
+text-align: justified;
+
+
+/* font-family: Roboto;
+font-size: 24px;
+font-weight: 400;
+line-height: 34px;
+letter-spacing: 0em;
+text-align: justified; */
+
+}

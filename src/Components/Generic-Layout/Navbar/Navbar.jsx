@@ -47,11 +47,7 @@ const Navbar = () => {
               </li>
               <li className="nav-links-listitem">
                 <NavLink
-                  onClick={() => {
-                    document.querySelector(
-                      "#UnderConst-wrapper"
-                    ).style.display = "flex";
-                  }}
+                  to="/about-us"
                   className="nav-links nav-about-us"
                 >
                   About Us
